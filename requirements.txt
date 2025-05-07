@@ -1,0 +1,2 @@
+flask
+adiciona requirements.txt com dependência do Flask
